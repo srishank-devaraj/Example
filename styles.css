@@ -1,0 +1,21 @@
+.centerr{
+    text-align: center;
+    font-size:medium;
+    color:aqua;
+    font-size:30px;
+
+}
+.bg{
+    background-color:cornsilk;
+}
+.center{
+    text-align: center;
+    font-size: 50px;;
+    color:red;
+    
+}
+.marg{
+    margin-right:700px ;
+    margin-left:700px;
+
+}
